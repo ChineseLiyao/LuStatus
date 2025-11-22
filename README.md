@@ -1,6 +1,7 @@
 # LuStatus
 
 **Typecho 状态插件 / A Status Plugin for Typecho**
+---
 <img width="128" height="24" alt="image" src="https://github.com/user-attachments/assets/ea5c2c1b-efc7-49c5-836d-b06f34a61911" />
 
 通过本地心跳包，在博客页脚实时展示博主是否在线。
